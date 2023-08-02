@@ -1,1 +1,1 @@
-# ibm_web_development_with_html_css_javacript
+# Curso IBM: Introduction to Web Development with HTML, CSS, JavaScript
