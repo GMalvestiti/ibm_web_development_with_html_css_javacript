@@ -1,1 +1,3 @@
-# Curso IBM: Introduction to Web Development with HTML, CSS, JavaScript
+# IBM Couse 02
+
+### Introduction to Web Development with HTML, CSS, JavaScript: [Link](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-full-stack-cloud-developer)
